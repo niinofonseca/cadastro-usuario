@@ -1,7 +1,7 @@
-package com.javanauta.cadastro_usuario.business;
+package com.camilaester.cadastro_usuario.business;
 
-import com.javanauta.cadastro_usuario.infrastructure.entitys.Usuario;
-import com.javanauta.cadastro_usuario.infrastructure.repository.UsuarioRepository;
+import com.camilaester.cadastro_usuario.infrastructure.entitys.Usuario;
+import com.camilaester.cadastro_usuario.infrastructure.repository.UsuarioRepository;
 import org.springframework.stereotype.Service;
 
 @Service

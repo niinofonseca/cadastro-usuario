@@ -1,4 +1,4 @@
-package com.javanauta.cadastro_usuario;
+package com.camilaester.cadastro_usuario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

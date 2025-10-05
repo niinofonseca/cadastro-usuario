@@ -1,6 +1,6 @@
-package com.javanauta.cadastro_usuario.infrastructure.repository;
+package com.camilaester.cadastro_usuario.infrastructure.repository;
 
-import com.javanauta.cadastro_usuario.infrastructure.entitys.Usuario;
+import com.camilaester.cadastro_usuario.infrastructure.entitys.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

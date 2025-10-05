@@ -1,4 +1,4 @@
-package com.javanauta.cadastro_usuario.infrastructure.entitys;
+package com.camilaester.cadastro_usuario.infrastructure.entitys;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
